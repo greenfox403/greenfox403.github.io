@@ -1,2 +1,2 @@
 # greenfox403.github.io
-HIstory
+History
